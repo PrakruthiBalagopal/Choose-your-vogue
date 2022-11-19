@@ -13,6 +13,8 @@ The ResNet-50 model consists of 5 stages each with a convolution and Identity bl
 
 # UI development
 The user interface for this project was built with the help of streamlit. Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98405826/202855818-725b5332-e71d-48c1-8279-3fdb65b61ca2.png">
+
 
 # Installation
 To run this code in your local system you have to download this repository using-
@@ -23,3 +25,6 @@ git clone https://github.com/PrakruthiBalagopal/Choose-your-vogue.git
 Fashion brands can enable online and offline personalized fashion recommendation experience to the customers.
 
 Future work should concentrate on including time series analysis and accurate categorization of product images based on the variation in color, trend and clothing style in order to develop an effective recommendation system. 
+
+# Author
+Name: Prakruthi B Gopal
