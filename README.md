@@ -16,4 +16,4 @@ The user interface for this project was built with the help of streamlit. Stream
 
 # Installation
 To run this code in your local system you have to download this repository using-
-git clone 
+gh repo clone PrakruthiBalagopal/Choose-your-vogue
