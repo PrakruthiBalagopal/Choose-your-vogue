@@ -16,4 +16,10 @@ The user interface for this project was built with the help of streamlit. Stream
 
 # Installation
 To run this code in your local system you have to download this repository using-
-gh repo clone PrakruthiBalagopal/Choose-your-vogue
+
+git clone https://github.com/PrakruthiBalagopal/Choose-your-vogue.git
+
+# Business potential and future enhancements
+Fashion brands can enable online and offline personalized fashion recommendation experience to the customers.
+
+Future work should concentrate on including time series analysis and accurate categorization of product images based on the variation in color, trend and clothing style in order to develop an effective recommendation system. 
