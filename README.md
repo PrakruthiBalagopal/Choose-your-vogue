@@ -11,4 +11,9 @@ ResNet-50 is a convolutional neural network that is 50 layers deep.A Residual Ne
 The ResNet-50 model consists of 5 stages each with a convolution and Identity block. Each convolution block has 3 convolution layers and each identity block also has 3 convolution layers. The ResNet-50 has over 23 million trainable parameters. The architecture is as shown below.
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/98405826/202853577-1667047b-7edd-4c4f-b269-1e5b02d6da81.png">
 
+# UI development
+The user interface for this project was built with the help of streamlit. Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
 
+# Installation
+To run this code in your local system you have to download this repository using-
+git clone 
